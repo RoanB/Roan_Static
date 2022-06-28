@@ -1,0 +1,8 @@
+title: 'Site Roan'
+baseline: 'This is a static site made by/for Roan'
+baseurl: 'https://wwww.buysse.io'
+description: 'This is a site made with Cecil and Forestry as CMS'
+author:
+    name: 'Arnaud Ligny'
+    url: 'https://arnaudligny.fr'
+image: cecil-card.png
